@@ -1,0 +1,9 @@
+{
+  "name": "mikro-orm-filter-cycle-repro",
+  "private": true,
+  "type": "module",
+  "dependencies": {
+    "@mikro-orm/core": "7.1.12",
+    "@mikro-orm/sqlite": "7.1.12"
+  }
+}
