@@ -3,7 +3,7 @@
   "private": true,
   "type": "module",
   "dependencies": {
-    "@mikro-orm/core": "7.1.12",
-    "@mikro-orm/sqlite": "7.1.12"
+    "@mikro-orm/core": "7.1.14",
+    "@mikro-orm/sqlite": "7.1.14"
   }
 }

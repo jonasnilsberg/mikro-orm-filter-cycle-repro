@@ -78,7 +78,7 @@ instances**, consistent with doubling once per cycle.
 | | |
 |---|---|
 | Node | 22.23.1 |
-| MikroORM | 7.1.12 (also 7.1.11) |
+| MikroORM | 7.1.14 (also 7.1.11, 7.1.12) |
 | Driver | `@mikro-orm/sqlite` (code path is in `@mikro-orm/sql`, so all SQL drivers) |
 
 ## Regression from v6
